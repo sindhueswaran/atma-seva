@@ -1,0 +1,78 @@
+title = "Home | Atma seva "
+baseURL = "https://atmaseva.netlify.com/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The sites parameters
+[params]
+  home = " "
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "About us"
+      url = "about-us"
+    [[menu.header]]
+      weight = 3
+      name = "What we do"
+      url = "whatwedo"
+    [[menu.header]]
+      weight = 4
+      name = "Contact"
+      url = "contact"
+    [[menu.header]]
+      weight = 5
+      name = "Donate"
+      url = "donate"  
+    [[menu.footer]]
+      weight = 1
+      name = "Home"
+      url = "#"
+    [[menu.footer]]
+      weight = 2
+      name = "About us"
+      url = "about-us"
+    [[menu.footer]]
+      weight = 3
+      name = "What we do"
+      url = "whatwedo"
+    [[menu.footer]]
+      weight = 4
+      name = "Contact"
+      url = "contact"
+    [[menu.footer]]
+      weight = 5
+      name = "Donate"
+      url = "donate"
+
+  [params.wrapper]
+      enable = true
+      title = "Providing support, in Health care, Welfare and Education for Vulnerable, Marginalised, Women, Children and the Elderly in Uttarakhand, India"
+      image = "img/aboutatma.webp"
+
+  [params.about]
+    enable = true
+    title = " "
+    image = "img/aboutatma.webp"
+    
+  [params.donate]
+    enable = true
+    title = "Support the SEVA"
+    sub1 = " Via PayPal (click on button below). <br> It is quick, easy & safe from anywhere in the world! "
+    sub2 = " Via Bank Transfer <br> For details please contact atmaseva108@gmail.com "
+    sub3 = " By donating your Time, Talents and Love if you <br>  are in Rishikesh. Do get in touch with us! "
+
+  [params.blog]
+    enable = false
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.contact]
+    enable = true
+    title = "Follow us on FACEBOOK..." 
+  [params.contact.box]
+    title = "Email" 
+    email = "atmaseva108@gmail.com"
+    phone = "Phone: +88 01672 506 744"
+     
