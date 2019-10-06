@@ -1,0 +1,28 @@
+<!-- {{ partial "global-header.html" . }}
+
+ Service Start -->
+ {{ with .Site.Params.about }}
+ <section id="about">
+   <div class="container" >
+     <div class="row">
+       <div class="col-lg-8 mx-auto">
+         <div class="block">
+ 
+           <h3 class="post-title text-center">{{ .title }}</h3>
+           
+            <img src="{{ .image | absURL }}" width="50%" alt="post-image" class="center-image" >  
+
+            <br>
+
+           {{ end }}
+
+        <div>  <br><br>
+          {{ .Content }}
+        </div>
+
+         </div>
+       </div>
+      
+     </div>
+   </div>
+ </section> 

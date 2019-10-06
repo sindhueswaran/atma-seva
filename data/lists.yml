@@ -1,0 +1,47 @@
+enable: true
+title: What We Do
+
+whatwedo:
+  - category: support
+    name: Support Widows
+    description: |
+      Currently Atma Seva assists Below Poverty Level Families and Widows, many with children, who receive no other support due to illiteracy or geographical distances. We provide monthly stipends for room rent, rations, stove & cooking gas, bedding, clothes, educational fees, school uniforms, books and full medical care according to individual needs assessed by us on a case by case basis. 
+    images: "/img/front/26.jpg"
+    url: "/whatwedo/support-widows/" 
+  - category: support
+    name:  FREE Medical & EYE CAMPS
+    description: |
+      We have organised & sponsored over 25 Free Medical and Eye Camps for thousands of poor villagers. We target remote Himalayan mountain regions, where transport and medical facilities are extremely limited, in Ganshali, Gupta Kashi, Rudraprayag, Pauri & Tehri Gharwal and Uttar Pradesh.
+    images: "/img/front/23.jpg"
+    url: "/whatwedo/free-medical-eye-camps/"
+  - category: support
+    name:  School distributions
+    description: |
+      In 2011 Atma Seva initiated regular distributions in multiple poor schools, of school bags, books, stationery, shoes, thermals, tracksuits, sweaters, caps, carpets & desks. Over 2000 children have received some or all of the above items to date.
+    images: "/img/front/14.jpg"
+    url: "/whatwedo/school-distributions/"
+  - category: support
+    name:  Blanket distributions for homeless
+    description: |
+      During cold winter months we aim to give as many blankets as possible to the homeless and elderly who sleep outside on the streets. We favour night time distributions which enables us to see who is in the most need.
+    images: "/img/front/24.jpg"
+    url: "/whatwedo/blanket-distributions-for-homeless-/"
+  - category: support
+    name:  Support Destitute, Disabled & Elderlies
+    description: |
+      Atma Seva provides food, gas, bedding, clothing and medical care for 12 to 15 destitute, elderly and disabled who are living in basic shelter at Asha Kiran Sewa Ashram, Narendranagar.
+    images: "/img/front/13.jpg"
+    url: "/whatwedo/support-destitute-disabled-elderlies/"
+  - category: support
+    name:  Work with local Nonprofit organizations
+    description: |
+      Atma Seva collaborates with other local NGOs including- •  Himalayan Vidya Peeth, a very worthy, struggling community led school for 269 lowest class and tribal caste or itinerant labourers’ children. who would otherwise not be receiving an education. •  Atma Seva has been involved with Asha Kiran Sewa Ashram since 2011 providing food rations, gas, bedding, clothing and medicine for 12 to 15 neglected, destitute, elderly and disabled people in basic shelter. 
+    images: "/img/front/22.jpg"
+    url: "/whatwedo/work-with-local-nonprofit-organizations/"
+  - category: support
+    name:  Thanks to our Sevaks (Volunteers/Team)
+    description: |
+      We have organised & sponsored over 25 Free Medical and Eye Camps for thousands of poor villagers. We target remote Himalayan mountain regions, where transport and medical facilities are extremely limited, in Ganshali, Gupta Kashi, Rudraprayag, Pauri & Tehri Gharwal and Uttar Pradesh.
+    images: "/img/front/35.jpg"
+    url: "/whatwedo/thanks-to-our-sevaks/"
+ 

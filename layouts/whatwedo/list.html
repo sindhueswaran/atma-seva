@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html" . }}
+
+<section class="blog section">
+	<div class="container">
+		<div class="row" >
+			{{ range .Pages.ByWeight }}
+			<div class="col-md-8 mx-auto ">
+			<article class="blog-post" style="padding-bottom: 20px;"> 
+				<a class="post-title text-center" href="{{ .Permalink }}"style="text-decoration: none;" >
+				<h3 > {{ .Title }} </h3></a>
+				<p style="text-align:justify; "> {{ .Summary }}	</p>
+				<a href="{{ .Permalink }}"> {{ with .Params.image }}			
+		<img src="{{ . | absURL }}" class="img-responsive center-image" alt="post-thumb" style="max-height: 250px;"> {{ end }} </a>		
+			</article> 
+			<hr>
+			</div>
+				{{ end }}
+			</div>
+			<div class="col-12 text-center">
+				{{ template "_internal/pagination.html" . }}
+			</div>
+		</div>
+	</section>
+
+	{{ partial "footer.html" . }}
+
+</body>
+</html>
