@@ -10,7 +10,7 @@ weight = 6
 
 Atma Seva collaborates with other local NGOs including:
  
- <li> Himalayan Vidya Peeth, a very worthy, struggling community led school for 269 lowest class and tribal caste or itinerant labourers’ children. who would otherwise not be receiving an education. 
+ <li> Himalayan Vidya Peeth, a very worthy, struggling community led school for 269 lowest class and tribal caste or itinerant labourers’ children, who would otherwise not be receiving an education. 
  <li> Atma Seva has been involved with Asha Kiran Sewa Ashram since 2011 providing food rations, gas, bedding, clothing and medicine for 12 to 15 neglected, destitute, elderly and disabled people in basic shelter. 
  
 
