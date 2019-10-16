@@ -6,6 +6,7 @@ tags = ["theme"]
 categories = ["starting"]
 image = "img/front/22.jpg"
 weight = 6
+draft = true
 +++
 
 Atma Seva collaborates with other local NGOs including:
