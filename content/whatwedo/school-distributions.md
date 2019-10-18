@@ -14,20 +14,56 @@ In 2011 Atma Seva initiated regular distributions in multiple poor schools, of s
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/img/front/1.jpg" class="d-block w-100" alt="...">
+                <img src="/img/School distributions/1.jpg" class="d-block center-image" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src="/img/front/2.jpg" class="d-block w-100" alt="...">
+                <img src="/img/School distributions/2.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/3.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/4.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/5.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/6.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/7.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/8.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/9.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/10.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/11.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/12.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/13.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/14.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/15.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/16.jpg" class="d-block center-image" alt="...">
+              </div> 
+              <div class="carousel-item"> 
+                <img src="/img/School distributions/17.jpg" class="d-block center-image" alt="...">
               </div>
-               <div class="carousel-item"> 
-                <img src="/img/front/3.jpg" class="d-block w-100" alt="...">
-              </div>
-               <div class="carousel-item"> 
-                <img src="/img/front/4.jpg" class="d-block w-100" alt="...">
-              </div>
-               <div class="carousel-item"> 
-                <img src="/img/front/5.jpg" class="d-block w-100" alt="...">
-              </div>    
             </div><!--end-->
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
