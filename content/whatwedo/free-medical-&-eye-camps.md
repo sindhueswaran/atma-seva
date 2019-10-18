@@ -15,20 +15,51 @@ We have organised & sponsored over 25 Free Medical and Eye Camps for thousand
  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/img/front/1.jpg" class="d-block w-100" alt="...">
+                <img src="/img/FREE Medical & EYE CAMPS/1.jpg" class="d-block center-image" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src="/img/front/2.jpg" class="d-block w-100" alt="...">
+                <img src="/img/FREE Medical & EYE CAMPS/2.jpg" class="d-block  center-image" alt="...">
               </div>
-               <div class="carousel-item"> 
-                <img src="/img/front/3.jpg" class="d-block w-100" alt="...">
+              <div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/3.jpg" class="d-block  center-image" alt="...">
               </div>
-               <div class="carousel-item"> 
-                <img src="/img/front/4.jpg" class="d-block w-100" alt="...">
+              <div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/4.jpg" class="d-block  center-image" alt="...">
               </div>
-               <div class="carousel-item"> 
-                <img src="/img/front/5.jpg" class="d-block w-100" alt="...">
-              </div>    
+              <div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/5.jpg" class="d-block  center-image" alt="...">
+              </div>
+              <div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/6.jpg" class="d-block  center-image" alt="...">
+              </div>
+              <div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/7.jpg" class="d-block  center-image" alt="...">
+              </div>
+              <div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/8.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/9.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/10.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/11.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/12.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/13.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/14.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/15.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/16.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/17.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/18.jpg" class="d-block  center-image" alt="...">
+              </div><div class="carousel-item"> 
+                <img src="/img/FREE Medical & EYE CAMPS/19.jpg" class="d-block  center-image" alt="...">
+              </div>
             </div><!--end-->
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
