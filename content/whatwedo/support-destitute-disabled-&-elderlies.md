@@ -4,7 +4,7 @@ date = "2015-06-24T13:50:46+02:00"
 description = "This is meta description for blog page"
 tags = ["theme"]
 categories = ["starting"]
-image = "/img/front/13.jpg"
+image = "/img/Elderlies/12.jpg"
 weight = 5
 +++
 
