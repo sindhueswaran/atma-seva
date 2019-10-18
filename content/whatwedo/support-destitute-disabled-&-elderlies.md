@@ -1,5 +1,5 @@
 +++
-title = "Support Destitute, Disabled & Elderlies "
+title = "Support Destitute Disabled and Elderlies"
 date = "2015-06-24T13:50:46+02:00"
 description = "This is meta description for blog page"
 tags = ["theme"]
@@ -14,46 +14,46 @@ Atma Seva provides food, gas, bedding, clothing and medical care for 12 to 15 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/img/Support Destitute, Disabled & Elderlies/1.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/1.jpg" class="d-block center-image" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/2.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/2.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/3.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/3.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/4.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/4.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/5.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/5.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/6.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/6.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/7.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/7.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/8.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/8.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/9.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/9.jpg" class="d-block center-image" alt="...">
               </div>
              <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/10.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/10.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/11.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/11.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/12.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/12.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/13.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/13.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Support Destitute, Disabled & Elderlies/14.jpg" class="d-block center-image" alt="...">
+                <img src="/img/Elderlies/14.jpg" class="d-block center-image" alt="...">
               </div>
                 <!--end-->
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
