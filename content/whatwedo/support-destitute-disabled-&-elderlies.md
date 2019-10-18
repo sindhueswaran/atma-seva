@@ -14,21 +14,48 @@ Atma Seva provides food, gas, bedding, clothing and medical care for 12 to 15 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/img/front/1.jpg" class="d-block w-100" alt="...">
+                <img src="/img/Support Destitute, Disabled & Elderlies/1.jpg" class="d-block center-image" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src="/img/front/2.jpg" class="d-block w-100" alt="...">
+                <img src="/img/Support Destitute, Disabled & Elderlies/2.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/front/3.jpg" class="d-block w-100" alt="...">
+                <img src="/img/Support Destitute, Disabled & Elderlies/3.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/front/4.jpg" class="d-block w-100" alt="...">
+                <img src="/img/Support Destitute, Disabled & Elderlies/4.jpg" class="d-block center-image" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/front/5.jpg" class="d-block w-100" alt="...">
-              </div>    
-            </div><!--end-->
+                <img src="/img/Support Destitute, Disabled & Elderlies/5.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/6.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/7.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/8.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/9.jpg" class="d-block center-image" alt="...">
+              </div>
+             <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/10.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/11.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/12.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/13.jpg" class="d-block center-image" alt="...">
+              </div>
+               <div class="carousel-item"> 
+                <img src="/img/Support Destitute, Disabled & Elderlies/14.jpg" class="d-block center-image" alt="...">
+              </div>
+                <!--end-->
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
