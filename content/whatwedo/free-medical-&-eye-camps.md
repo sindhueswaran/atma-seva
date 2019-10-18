@@ -4,7 +4,7 @@ date = "2015-10-10T13:07:31+02:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "/img/front/23.jpg"
+image = "/img/FREE Medical and EYE CAMPS/9.jpg"
 weight = 2
 gallery = "{{ range .Site.Data.pics.medical }}"
 +++
