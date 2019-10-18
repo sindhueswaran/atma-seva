@@ -49,7 +49,7 @@ theme = "airspace-hugo"
   [params.wrapper]
       enable = true
       title = "Providing support, in Health care, Welfare and Education for Vulnerable, Marginalised, Women, Children and the Elderly in Uttarakhand, India"
-      image = "img/aboutatma.webp"
+      image = "img/aboutatma.jpg"
 
   [params.about]
     enable = true
