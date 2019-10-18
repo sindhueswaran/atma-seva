@@ -5,7 +5,7 @@ description = "This is meta description for blog page"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["starting"]
 author = "Themefisher"
-image = "/img/front/24.jpg"
+image = "/img/Blanket distributions for homeless/1.jpg"
 weight = 4
 gallery = "{{ range .Site.Data.pics.blanket }}"
 +++
