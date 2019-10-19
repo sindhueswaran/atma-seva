@@ -4,9 +4,8 @@ date = "2015-10-10T13:07:31+02:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "/img/front/23.jpg"
+image = "/img/FREE Medical and EYE CAMPS/9.jpg"
 weight = 2
-gallery = "{{ range .Site.Data.pics.medical }}"
 +++
 
 We have organised & sponsored over 25 Free Medical and Eye Camps for thousands of poor villagers. We target remote Himalayan mountain regions, where transport and medical facilities are extremely limited, in Ganshali, Gupta Kashi, Rudraprayag, Pauri & Tehri Gharwal and Uttar Pradesh.
