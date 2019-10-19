@@ -2,8 +2,6 @@ enable: true
 title: Our
 
 front:
-  - image: "/img/front/2.jpg"
-  - image: "/img/front/3.jpg"
   - image: "/img/front/4.jpg"
   - image: "/img/front/6.jpg"
   - image: "/img/front/7.jpg"
@@ -20,6 +18,7 @@ front:
   - image: "/img/front/18.jpg"
   - image: "/img/front/19.jpg"
   - image: "/img/front/20.jpg"
+  - image: "/img/front/21.jpg"
   - image: "/img/front/22.jpg"
   - image: "/img/front/23.jpg"
   - image: "/img/front/24.jpg"
@@ -27,3 +26,4 @@ front:
   - image: "/img/front/26.jpg"
   - image: "/img/front/27.jpg"
   - image: "/img/front/28.jpg"
+  - image: "/img/front/29.jpg"
