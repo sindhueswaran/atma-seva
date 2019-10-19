@@ -151,6 +151,11 @@ hr {
  .navbar-brand {
 	 margin-right: -50px;
 }
+@media only screen and (max-width: 1200px) {
+  .navbar-brand {
+    margin-right: -65px;
+  }
+}
 
 .navbar-brand img{
   width: 50%;
