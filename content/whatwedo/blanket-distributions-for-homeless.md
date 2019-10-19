@@ -5,9 +5,8 @@ description = "This is meta description for blog page"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["starting"]
 author = "Themefisher"
-image = "/img/front/18.jpg"
+image = "/img/Blanket distributions for homeless/1.jpg"
 weight = 4
-gallery = "{{ range .Site.Data.pics.blanket }}"
 +++
 
 During cold winter months we aim to give as many blankets as possible to the homeless and elderly who sleep outside on the streets. We favour night time distributions which enables us to see who is in the most need.
