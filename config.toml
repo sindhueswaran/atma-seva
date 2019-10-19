@@ -9,10 +9,6 @@ theme = "airspace-hugo"
   
   [menu]
     [[menu.header]]
-      weight = 1
-      name = "Home"
-      url = "#"
-    [[menu.header]]
       weight = 2
       name = "About us"
       url = "about-us"
