@@ -4,7 +4,7 @@ date = "2015-08-03T13:39:46+02:00"
 description = "This is meta description for blog page"
 tags = ["hugo"]
 categories = ["pseudo"]
-image = "/img/front/14.jpg"
+image = "/img/School distributions/15.jpg"
 weight = 3
 +++
 
