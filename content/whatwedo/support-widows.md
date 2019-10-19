@@ -17,9 +17,6 @@ Currently Atma Seva assists Below Poverty Level Families and Widows, many wit
                 <img src= "/img/supportwidows/1.jpg" class="d-block w-100" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/2.jpg" class="d-block w-100" alt="...">
-              </div>
-              <div class="carousel-item"> 
                 <img src= "/img/supportwidows/3.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
