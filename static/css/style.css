@@ -151,11 +151,11 @@ hr {
  
 
 .navbar-brand img{
-  width: 70%;
+  width: 65%;
   margin: 0 -2.4rem 0 2.4rem;
 }
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
   .navbar-brand img {
     width: 30%;
     margin-top: 2.5rem;
@@ -170,7 +170,7 @@ hr {
 .navbar-light .navbar-nav .nav-link {
   color: #F2950A;
   padding: 1rem 2rem 1rem 2rem;
-  font: normal normal 700 45px 'amatic sc',cursive;
+  font: normal normal 700 40px 'amatic sc',cursive;
   text-align: center;
 }
 
@@ -209,7 +209,7 @@ section{
 .btn-main,
 .btn-transparent,
 .btn-small {
-  background: #655E7A;
+  background: #F2950A; 
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -224,7 +224,7 @@ section{
 .btn-main:hover,
 .btn-transparent:hover,
 .btn-small:hover {
-  background: #353240;
+  background: #F7DB07;
   color: #fff;
 }
 .btn-solid-border {
