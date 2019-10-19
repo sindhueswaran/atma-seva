@@ -177,7 +177,7 @@ hr {
 @media only screen and (max-width: 1200px) {
   .navbar-light .navbar-nav .nav-link {
    
-    font: normal normal 700 30px 'amatic sc',cursive;
+    font: normal normal 700 25px 'amatic sc',cursive;
     
   }
 }
