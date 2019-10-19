@@ -54,7 +54,7 @@ theme = "airspace-hugo"
   [params.about]
     enable = true
     title = " "
-    image = "img/aboutatma.webp"
+    image = "img/aboutatma.jpg"
     
   [params.donate]
     enable = true
