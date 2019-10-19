@@ -4,7 +4,7 @@ date = "2015-06-24T13:50:46+02:00"
 description = "This is meta description for blog page"
 tags = ["theme"]
 categories = ["starting"]
-image = "/img/supportwidows/16.jpg"
+image = "/img/front/26.jpg"
 weight = 1
 +++
 
@@ -14,49 +14,49 @@ Currently Atma Seva assists Below Poverty Level Families and Widows, many wit
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src= "/img/supportwidows/1.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/1.jpg" class="d-block w-100" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/2.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/2.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/3.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/3.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/5.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/5.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/6.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/6.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/7.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/7.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/8.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/8.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/9.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/9.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/10.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/10.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/11.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/11.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/12.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/12.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/13.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/13.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/14.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/14.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/15.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/15.jpg" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item"> 
-                <img src= "/img/supportwidows/16.jpg" class="d-block center-image" alt="...">
+                <img src= "/img/supportwidows/16.jpg" class="d-block w-100" alt="...">
               </div>   
             </div><!--end-->
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
