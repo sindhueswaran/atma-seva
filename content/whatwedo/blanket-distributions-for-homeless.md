@@ -5,7 +5,7 @@ description = "This is meta description for blog page"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["starting"]
 author = "Themefisher"
-image = "/img/Blanket distributions for homeless/1.jpg"
+image = "/img/front/18.jpg"
 weight = 4
 gallery = "{{ range .Site.Data.pics.blanket }}"
 +++
@@ -15,22 +15,22 @@ During cold winter months we aim to give as many blankets as possible to the ho
  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="/img/Blanket distributions for homeless/1.jpg" class="d-block  center-image" alt="...">
+                <img src="/img/Blanket distributions for homeless/1.jpg" class="d-block  w-100" alt="...">
               </div> 
               <div class="carousel-item"> 
-                <img src="/img/Blanket distributions for homeless/2.jpg" class="d-block  center-image" alt="...">
+                <img src="/img/Blanket distributions for homeless/2.jpg" class="d-block  w-100" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Blanket distributions for homeless/3.jpg" class="d-block  center-image" alt="...">
+                <img src="/img/Blanket distributions for homeless/3.jpg" class="d-block  w-100" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Blanket distributions for homeless/4.jpg" class="d-block  center-image" alt="...">
+                <img src="/img/Blanket distributions for homeless/4.jpg" class="d-block  w-100" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Blanket distributions for homeless/5.jpg" class="d-block  center-image" alt="...">
+                <img src="/img/Blanket distributions for homeless/5.jpg" class="d-block  w-100" alt="...">
               </div>
                <div class="carousel-item"> 
-                <img src="/img/Blanket distributions for homeless/6.jpg" class="d-block center-image"  alt="...">
+                <img src="/img/Blanket distributions for homeless/6.jpg" class="d-block w-100"  alt="...">
               </div>                 
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
