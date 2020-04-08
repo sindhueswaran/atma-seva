@@ -1,0 +1,331 @@
+<div id="mapid" style="width: 100%; height: 400px;"></div>
+<script>
+	var mymap = L.map('mapid').setView([30.094924122185723, 78.64886474609375], 9);
+	L.tileLayer('https://tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=10771ad162c94f459d234529910e1de0', {
+	attribution: '&copy; <a href="http://www.thunderforest.com/">Thunderforest</a>, &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	apikey: '<your apikey>', 
+    maxZoom: 22,
+		id: 'mapbox.streets'
+	}).addTo(mymap);
+	var cycleIcon = L.icon({
+    iconUrl: '/img/pin.svg',
+    iconSize:     [40, 40], // size of the icon
+    iconAnchor:   [1, 2], // point of the icon which will correspond to marker's location
+    popupAnchor:  [5, 5] // point from which the popup should open relative to the iconAnchor
+});
+var geojson = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "68 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.32318544387817,
+          30.128518475471424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "6 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.29904556274414,
+          30.105855608732295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "4 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.30601930618286,
+          30.110013641224743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "6 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.22145462036133,
+          30.05713420212143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "info": "2 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4013557434082,
+          30.064414229534687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "2 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.28602075576782,
+          30.120445077465526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "7 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.28557014465332,
+          30.16049006847799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "43 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1515884399414,
+          30.17303093922411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "2 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04773330688477,
+          29.912834889145316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "5 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04232597351074,
+          29.92812224937289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "5 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.79188537597656,
+          30.133844700755752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "5 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.65301132202148,
+          30.12308060409588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "3 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.17914009094238,
+          30.185125060269872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "4 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0530548095703,
+          30.299389313522617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "4 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14163208007812,
+          29.912686095517152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "4pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.30419540405273,
+          30.113837391649525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "3 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.29610586166382,
+          30.109401084928095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "info": "4 pax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.86334228515625,
+          30.92107637538488
+        ]
+      }
+    }
+  ]
+}
+         
+L.geoJSON(geojson, {
+	style : function(feature) {
+		return{
+			color: '#000'
+		}
+	},
+	pointToLayer: function (geoJsonPoint, latlong) {
+		return L.marker(latlong, {
+			icon: cycleIcon
+		})
+		},
+	onEachFeature: function(feature, layer){
+		if(feature.geometry.type==='Point'){
+			layer.bindPopup(feature.properties.info);
+		}
+	}	
+}).addTo(mymap); 
+// Disable mousewheel zoom
+	mymap.scrollWheelZoom.disable();
+</script>
+
+</div>
