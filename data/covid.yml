@@ -2,7 +2,6 @@ enable: true
 title: Our
 
 pics:
-  - image: "/img/covid/2.jpg"
   - image: "/img/covid/3.jpg"
   - image: "/img/covid/4.jpg"
   - image: "/img/covid/6.jpg"
