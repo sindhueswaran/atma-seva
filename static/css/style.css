@@ -149,7 +149,7 @@ hr {
 --*/
 
  .navbar-brand {
-	 margin-right: -50px;
+	 margin-right: -120px;
 }
 @media only screen and (max-width: 1200px) {
   .navbar-brand {
