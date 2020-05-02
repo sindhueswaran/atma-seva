@@ -2,7 +2,6 @@ enable: true
 title: Our
 
 pics:
-  - image: "/img/covid/1.jpg"
   - image: "/img/covid/2.jpg"
   - image: "/img/covid/3.jpg"
   - image: "/img/covid/4.jpg"
@@ -20,3 +19,4 @@ pics:
   - image: "/img/covid/17.jpg"
   - image: "/img/covid/18.jpg"
   - image: "/img/covid/19.jpg"
+  - image: "/img/covid/1.jpg"
