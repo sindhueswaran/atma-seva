@@ -74,7 +74,7 @@ var geojson = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            77.9258752,	29.7513564
+          79.3485361, 30.4092527,
           ]
         }
       },
@@ -469,7 +469,7 @@ var geojson = {
         "geometry": {
           "type": "Point",
           "coordinates": [
-            78.3906213,	30.064872
+          77.4863871, 29.9636149
 
           ]
         }
@@ -634,7 +634,7 @@ L.geoJSON(geojson, {
 		},
 	onEachFeature: function(feature, layer){
 		if(feature.geometry.type==='Point'){
-			layer.bindPopup(feature.properties.info);
+			layer.bindPopup(feature.properties.info, feature.properties.Place);
 		}
 	}	
 }).addTo(mymap); 
