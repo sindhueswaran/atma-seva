@@ -6,6 +6,7 @@ tags = ["theme"]
 categories = ["starting"]
 image = "/img/Elderlies/12.jpg"
 weight = 5
+draft= true
 +++
 
 Atma Seva provides food, gas, bedding, clothing and medical care for 12 to 15 destitute, elderly and disabled who are living in basic shelter at Asha Kiran Sewa Ashram, Narendranagar.
