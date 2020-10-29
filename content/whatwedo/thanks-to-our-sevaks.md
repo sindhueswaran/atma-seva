@@ -6,6 +6,7 @@ tags = ["theme"]
 categories = ["starting"]
 image = "/img/Thanks to OUR Sevaks/35.jpg"
 weight = 7
+draft = true
 +++
 
 
