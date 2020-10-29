@@ -60,7 +60,7 @@ theme = "airspace-hugo"
     title = "Support the SEVA"
     sub1 = " Via PayPal (click on button below). <br> It is quick, easy & safe from anywhere in the world! "
     sub2 = " Via Bank Transfer <br> For details please contact atmaseva108@gmail.com "
-    sub3 = " By donating your Time, Talents and Love if you <br>  are in Rishikesh. Do get in touch with us! "
+    sub3 = " By donating your Time, Talents and Love if you <br>  are in Rishikesh."
 
   [params.blog]
     enable = false
