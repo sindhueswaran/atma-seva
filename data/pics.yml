@@ -2,7 +2,7 @@ enable: true
 title: Our
 
 front:
-  - image: "/img/front/ascollage.jpg"
+  - image: "/img/front/collage.jpg"
   - image: "/img/front/4.jpg"
   - image: "/img/front/6.jpg"
   - image: "/img/front/7.jpg"
