@@ -1,0 +1,27 @@
+<!-- {{ partial "global-header.html" . }}
+
+ contact form start -->
+ {{ with .Site.Params.support }}
+ <section id="support">
+   <div class="container">
+     <div class="col-md-8 mx-auto  text-center"> 
+    <!-- --> <h2>{{ .title }}</h2> 
+       <br> <br>      
+       
+       <p> {{ .sub1 | markdownify }} <br> {{ .sub2 | markdownify }} </p><br>
+       <a href="mailto:atmaseva108@gmail.com ?Subject=Hello%20again" target="_blank" > 
+       <p id="email"> {{ .email }} </p> 
+       </a><br>
+
+ 
+           <br>
+
+           {{ end }}
+            
+         </div>
+       </div>
+      
+     </div>
+   </div>
+ </section>
+ 
