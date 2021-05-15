@@ -55,7 +55,7 @@ theme = "airspace-hugo"
     title = " "
     image = "img/aboutatma.jpg"
     
-  [params.donate]
+  [params.support]
     enable = true
     title = "Support the SEVA"
     sub1 = " If you would like to contribute towards Atma Seva's efforts,"
