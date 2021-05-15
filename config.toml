@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 [params]
   home = " "
   
-  [menu]
+  [menu] 
     [[menu.header]]
       weight = 2
       name = "About us"
@@ -58,10 +58,9 @@ theme = "airspace-hugo"
   [params.donate]
     enable = true
     title = "Support the SEVA"
-    sub1 = " Ìf you would like to contribute towards Atma Seva's efforts, please do get in touch so we can send you the details. "
-   # sub1 = " Via PayPal (click on button below). <br> It is quick, easy & safe from anywhere in the world! "
-   # sub2 = " Via Bank Transfer <br> For details please contact atmaseva108@gmail.com "
-   # sub3 = " By donating your Time, Talents and Love if you <br>  are in Rishikesh."
+    sub1 = " If you would like to contribute towards Atma Seva's efforts,"
+    sub2 = " please do get in touch so we can send you the details. "
+    email = "atmaseva108@gmail.com" 
 
   [params.blog]
     enable = false
