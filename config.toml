@@ -23,7 +23,7 @@ theme = "airspace-hugo"
     [[menu.header]]
       weight = 5
       name = "Support"
-      url = "donate"  
+      url = "support"  
     [[menu.footer]]
       weight = 1
       name = "Home"
@@ -43,7 +43,7 @@ theme = "airspace-hugo"
     [[menu.footer]]
       weight = 5
       name = "Support"
-      url = "donate"
+      url = "support"
 
   [params.wrapper]
       enable = true
