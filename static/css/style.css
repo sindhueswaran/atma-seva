@@ -199,6 +199,27 @@ section{
 }
 
 /*--
+	support
+--*/
+
+#support .email p  {
+  font-size: 1.6rem;
+  text-decoration: none; 
+  color:black;
+}
+
+/*--
+	Donate
+--*/
+
+#donate .email p  {
+  font-size: 1.6rem;
+  text-decoration: none; 
+  color:black;
+}
+
+
+/*--
 	Contact
 --*/
 
